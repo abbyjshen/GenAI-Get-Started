@@ -9,6 +9,9 @@
   - [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 ## Play
-  - [ChatGPT](https://chat.openai.com/)
   - [Bing Chat](https://www.bing.com/new)
-  - Grab some mates and run a [hackathon](https://aka.ms/ai-hackathon-starter-kit-video)🥷 (walkthrough from scratch)
+  - [ChatGPT](https://chat.openai.com/)
+  - [Register to access Azure OpenAI Service](https://aka.ms/oai/access)
+
+## Tell your friends
+  - Grab some mates/customers and run a [hackathon](https://aka.ms/ai-hackathon-starter-kit-video)🥷 (walkthrough from scratch)
