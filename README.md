@@ -1,5 +1,7 @@
 # Get Started with AI and Generative AI
 
+## See [https://aka.ms/10k-women-AI](https://aka.ms/10k-women-AI)
+
 ## Learn
   - News articles, videos, etc.
   - [Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/) (30 mins)
@@ -15,3 +17,4 @@
 
 ## Tell your friends
   - Grab some mates/customers and run a [hackathon](https://aka.ms/ai-hackathon-starter-kit-video)🥷 (walkthrough from scratch)
+  - Share this page of resources: [https://aka.ms/10k-women-AI](https://aka.ms/10k-women-AI)
