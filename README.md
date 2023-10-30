@@ -1,6 +1,7 @@
 # GenAI-Get-Started
 
 ## Generative AI for not-for-profits: [aka.ms/NFP-genAI](https://aka.ms/NFP-genAI)
+<br></br>
 
 ## Videos and explainers
   - [Bing Chat Enterprise and commercial data protection](https://microsoft.com/bing/chat/enterprise)
