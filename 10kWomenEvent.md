@@ -1,6 +1,4 @@
-# Get Started with AI and Generative AI
-
-## See [https://aka.ms/10k-women-AI](https://aka.ms/10k-women-AI)
+# See [https://aka.ms/10k-women-AI](https://aka.ms/10k-women-AI)
 
 ## Learn
   - News articles, videos, etc.
