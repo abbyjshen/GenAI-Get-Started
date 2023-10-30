@@ -1,4 +1,4 @@
-# See [https://aka.ms/10k-women-AI](https://aka.ms/10k-women-AI)
+# For published version, see [https://aka.ms/10k-women-AI](https://aka.ms/10k-women-AI)
 
 ## Learn
   - News articles, videos, etc.
