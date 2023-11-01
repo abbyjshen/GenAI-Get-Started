@@ -35,5 +35,8 @@ See presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https:
   - [Using AI for Good with Microsoft AI](https://www.microsoft.com/en-us/ai/ai-for-good)
   - [Generative AI Skills Challenge grant - data.org](https://data.org/initiatives/ai-challenge/)
 <br></br>
+<br></br>
+<br></br>
 
-## [Presentation slides](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/Gen%20AI%20for%20NFP%20-%20Infoxchange%20webinar.pdf)
+## Presentation slides
+[Presentation slides from 1st November 2023 webinar](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/Gen%20AI%20for%20NFP%20-%20Infoxchange%20webinar.pdf)
