@@ -4,6 +4,7 @@
 
 ## 🖱️ Play
   - [Bing Chat](https://www.bing.com/new)
+  - [Bing Image Creator](https://www.bing.com/create)
   - [ChatGPT](https://chat.openai.com/)
 <br></br>
 
