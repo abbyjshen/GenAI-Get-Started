@@ -12,6 +12,7 @@
   - [Bing Chat Enterprise and commercial data protection](https://microsoft.com/bing/chat/enterprise)
   - [How Bing Chat Enterprise works](https://www.youtube.com/watch?v=XPxM2hQIAf8)
   - [M365 Copilot](https://www.youtube.com/playlist?list=PLXPr7gfUMmKxDKxah3zpG4NhhDj-2lAvc)
+  - [Data, privacy, security](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 <br></br>
 
 ## 📖 Learn more
