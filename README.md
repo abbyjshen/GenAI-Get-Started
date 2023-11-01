@@ -1,6 +1,8 @@
 # GenAI-Get-Started
 
 ## Generative AI for not-for-profits 👉 [https://aka.ms/NFP-genAI](https://aka.ms/NFP-genAI) 👈
+See presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https://aka.ms/NFP-genAI#presentation-slides)
+<br></br>
 
 ## 🖱️ Play
   - [Bing Chat](https://www.bing.com/new)
@@ -32,4 +34,6 @@
 <br></br>
   - [Using AI for Good with Microsoft AI](https://www.microsoft.com/en-us/ai/ai-for-good)
   - [Generative AI Skills Challenge grant - data.org](https://data.org/initiatives/ai-challenge/)
+<br></br>
 
+## [Presentation slides](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/Gen%20AI%20for%20NFP%20-%20Infoxchange%20webinar.pdf)
