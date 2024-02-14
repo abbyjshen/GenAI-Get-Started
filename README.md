@@ -1,4 +1,4 @@
-# GenAI-Get-Started
+# GenAI-Get-Started [https://aka.ms/genAI-links](https://aka.ms/genAI-links)
 
 ## Generative AI for not-for-profits 👉 [https://aka.ms/NFP-genAI](https://aka.ms/NFP-genAI) 👈
 See presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https://aka.ms/NFP-genAI#presentation-slides)
