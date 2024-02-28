@@ -1,5 +1,5 @@
 # Generative AI for not-for-profits Nov 2023
-See Nov 2023 presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https://aka.ms/NFP-genAI#presentation-slides)
+See Nov 2023 presentation slides [here](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/GenAI-for-NFP-Nov2023.md#presentation-slides)
 <br></br>
 
 ## 🖱️ Play
