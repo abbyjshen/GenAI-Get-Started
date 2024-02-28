@@ -29,6 +29,8 @@ _Disclaimer: This is not official wording. Some of the descriptions have been wr
 <br></br>
 ## Sidenote: the names can be confusing...
 
+📺 [Here's a great 10 minute video about Microsoft Copilot personal and work experiences](https://www.youtube.com/watch?v=N6yiyXRNCJY)
+
 * **GPT / Large Language Models (LLMs)** = the AI models. OpenAI is the organisation that built them. They are AI models so don't have a user interface. People can build user interfaces to interact with these models - chat is one way, but it doesn't have to be QnA or interactive with users.
 * [**ChatGPT**](https://chat.openai.com/) = a chat application OpenAI built so that you can interact with the underlying model(s). The free version interacts directly with the model, so what it "knows" is effectively how the human language works, based on the vast volume of data the model has been trained on. It doesn't actually know any facts - think auto-complete on speed.
 * [**Copilot** in web (fka Bing Chat)](https://copilot.microsoft.com/) = another user interface, also chat based. Built by Microsoft. In addition to having the "knowledge" of the AI models, it also has access to search the internet for "facts", and uses it's knowledge of the human language to respond to you in natural language. Think ChatGPT+Bing search.
