@@ -4,15 +4,23 @@
 See presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https://aka.ms/NFP-genAI#presentation-slides)
 <br></br>
 
+<br></br>
+# THIS PAGE IS BEING EDITTED, you can still find relevant information in the following pages
+- [November 2023 version](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/GenAI-for-NFP-Nov2023.md)
+- [AI for Individuals](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/AI-for-individuals.md)
+<br></br>
+<br></br>
+
+
 ## 🖱️ Play
-  - [Bing Chat](https://www.bing.com/new)
-  - [Bing Image Creator](https://www.bing.com/create)
+  - !Copilot! [Bing Chat](https://www.bing.com/new)
+  - !Copilot! [Bing Image Creator](https://www.bing.com/create)
   - [ChatGPT](https://chat.openai.com/)
 <br></br>
 
 ## 📺 Videos and explainers
-  - [Bing Chat Enterprise and commercial data protection](https://microsoft.com/bing/chat/enterprise)
-  - [How Bing Chat Enterprise works](https://www.youtube.com/watch?v=XPxM2hQIAf8)
+  - !Copilot! [Bing Chat Enterprise and commercial data protection](https://microsoft.com/bing/chat/enterprise)
+  - !Copilot! [How Bing Chat Enterprise works](https://www.youtube.com/watch?v=XPxM2hQIAf8)
   - [M365 Copilot](https://www.youtube.com/playlist?list=PLXPr7gfUMmKxDKxah3zpG4NhhDj-2lAvc)
   - [Data, privacy, security](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 <br></br>
@@ -39,4 +47,4 @@ See presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https:
 <br></br>
 
 ## Presentation slides
-[Presentation slides from 1st November 2023 webinar](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/Gen%20AI%20for%20NFP%20Nov2023%20-%20Infoxchange%20webinar.pdf)
+[Presentation slides from <date> webinar](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/Gen%20AI%20for%20NFP%20Nov2023%20-%20Infoxchange%20webinar.pdf)
