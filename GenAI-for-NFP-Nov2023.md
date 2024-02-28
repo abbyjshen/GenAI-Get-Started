@@ -1,4 +1,4 @@
-## Generative AI for not-for-profits Nov 2023
+# Generative AI for not-for-profits Nov 2023
 See Nov 2023 presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https://aka.ms/NFP-genAI#presentation-slides)
 <br></br>
 
