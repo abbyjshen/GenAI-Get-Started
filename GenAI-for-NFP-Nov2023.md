@@ -37,4 +37,4 @@ See Nov 2023 presentation slides [here](https://github.com/abbyjshen/GenAI-Get-S
 <br></br>
 
 ## Presentation slides
-[Presentation slides from 1st November 2023 webinar](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/Gen%20AI%20for%20NFP%20Nov2023%20-%20Infoxchange%20webinar.pdf)
+[Presentation slides from 1st November 2023 webinar](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/files/Gen%20AI%20for%20NFP%20Nov2023%20-%20Infoxchange%20webinar.pdf)
