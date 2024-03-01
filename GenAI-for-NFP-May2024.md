@@ -47,4 +47,4 @@ See presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https:
 <br></br>
 
 ## Presentation slides
-[Presentation slides from <date> webinar](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/Gen%20AI%20for%20NFP%20Nov2023%20-%20Infoxchange%20webinar.pdf)
+[Presentation slides from <date> webinar](https://github.com/abbyjshen/GenAI-Get-Started/tree/main/files)
