@@ -9,5 +9,7 @@
 - Explore Azure AI Studio for a complete RAG development experience: [https://aka.ms/AzureAIStudio](https://aka.ms/AzureAIStudio)
 - Dig more into quality evaluation details and why Azure AI Search will make your application generate better results: [https://aka.ms/ragrelevance](https://aka.ms/ragrelevance) 
 
+**Azure OpenAI Service on your data:** 📺 [https://www.youtube.com/watch?v=9IBEVMQh5FQ](https://www.youtube.com/watch?v=9IBEVMQh5FQ)
+
 ![image](https://github.com/abbyjshen/GenAI-Get-Started/assets/40477007/5df805bf-92bf-47d9-90ca-b1720c716af2)
 
