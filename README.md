@@ -16,7 +16,7 @@
 <img width="500" alt="image" src="https://github.com/abbyjshen/GenAI-Get-Started/assets/40477007/29aa8276-c0cf-406d-b85a-ab0b3c1393e6">
 <br></br>
 
-**Links and comments shared on Teams live stream:**
+### Links and comments shared on Teams live stream:
 - In Copilot Studio, creating a GPT doesn't train a Generative Pretrained Transformer model. In this case a "GPT" is a LLM combined wtih a System Message and a data source for RAG (think of it as "RAG in a box"). Like the ChatGPT GPTs. As Chimes said "Don't train a GPT" - i.e. don't train a Generative Pretrained Transformer, but feel free to build a "RAG in a box".
 - You could use Florence Computer Vision model to analyze the content and then load that into a Vector index (as chunks). Or Azure Video Indexer. For specialised use cases (eg videos), it'll make sense to do pre-processing on the data using specialised tools (eg computer vision, Video Indexer, python scripts) before pointing Copilot at it. It'll be better and/or cheaper - horses for courses still applies.
 - Coutesy of Copilot in Teams meetings (my prompt was _"Gather all links shared in the chat into a list, including the link and a description of what it is"_)
