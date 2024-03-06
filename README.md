@@ -2,7 +2,7 @@
 
 ## Global AI Bootcamp (Auckland)
 
-**Presentation slides:** 🔎 [Search Smarter in Generative AI Apps](https://github.com/abbyjshen/GenAI-Get-Started/tree/main/files)
+**Presentation slides:** 🔎 [Search Smarter in Generative AI Apps](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/files/Global%20AI%20Bootcamp%20-%20Search%20smarter%20in%20Generative%20AI%20apps%206Mar.pdf)
 
 **Takeaway links**
 - Learn more about Azure AI Search: [https://aka.ms/AzureAISearch](https://aka.ms/AzureAISearch)
