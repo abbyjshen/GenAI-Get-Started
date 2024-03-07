@@ -1,6 +1,9 @@
 # GenAI-Get-Started [https://aka.ms/genAI-links](https://aka.ms/genAI-links)
 
 ## Global AI Bootcamp (Auckland)
+### 👉 [Catch the recording here!! (Link to YouTube🔗)](https://www.youtube.com/watch?v=bcS9iwpGVJI&t=629s) 👈
+
+<br>
 <img width="500" alt="image" src="https://github.com/abbyjshen/GenAI-Get-Started/assets/40477007/c87411c7-e6d2-4ad3-9c4c-f3c04e05786d">
 
 **Presentation slides:** 🔎 [Search Smarter in Generative AI Apps](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/files/Global%20AI%20Bootcamp%20-%20Search%20smarter%20in%20Generative%20AI%20apps%206Mar.pdf)
