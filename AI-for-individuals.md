@@ -5,15 +5,15 @@ _Disclaimer: This is not official wording. Some of the descriptions have been wr
 
 ## Get started quickly
 
-* Watch: [Copilot (fka Bing Chat) in Edge sizzle video](https://www.youtube.com/watch?v=JR9-ESKbep4)
-* Watch: [Copilot (fka Bing Chat) in Edge quick example video](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/AI-for-individuals.md)
+* Watch: [Meet Microsoft Copilot](https://www.microsoft.com/en-us/videoplayer/embed/RW1gt0F)
+* Watch: [Copilot (fka Bing Chat) sizzle video](https://www.youtube.com/watch?v=JR9-ESKbep4)
 * Read: [Use AI in Edge](https://www.microsoft.com/en-us/edge/learning-center/how-to-use-ai-for-creativity-and-search)
 * Read: [Tips and Tricks](https://www.microsoft.com/en-us/edge/features/copilot?form=MA13FJ)
 * Do: [Walkthrough using Edge](https://www.microsoft.com/en-gb/edge/copilot?form=MT00KW&OCID=MT00KW&culture=en-us&country=us)
-* Do: [Copilot Lab - get started with prompting](https://copilot.cloud.microsoft/en-US/prompts)
+* Do: [Get started with using and prompting!](https://copilot.cloud.microsoft/en-US/prompts)
 
 ### Do more
-* [Using Copilot](https://copilot.cloud.microsoft/en-US/prompts)
+* [Get started here!](https://copilot.cloud.microsoft/)
 * [Edge](https://www.microsoft.com/en-us/edge/learning-center?form=MA13I2)
 * [Windows](https://www.microsoft.com/en-us/edge/features/copilot?form=MA13FJ)
 * [Enter a URL, and chat with a custom Copilot over your website!](https://web.powerva.microsoft.com/tryit)
