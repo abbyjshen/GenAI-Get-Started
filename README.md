@@ -2,11 +2,13 @@
 ## Generative AI for not-for-profits 👉 [https://aka.ms/NFP-genAI](https://aka.ms/NFP-genAI) 👈
 
 ## 🖱️ Play
+  - [Get started here!](https://copilot.cloud.microsoft/)
   - [Copilot](https://copilot.microsoft.com) (in web, formerly known as Bing Chat) - note the "Protected" shield depending on if you're signed in with a personal or a work account
   - [ChatGPT](https://chat.openai.com/)
 <br></br>
 
 ## 📺 Videos and explainers
+  - [Meet Microsoft Copilot](https://www.microsoft.com/en-us/videoplayer/embed/RW1gt0F)
   - [Microsoft Copilot personal and work experiences explained](https://www.youtube.com/watch?v=N6yiyXRNCJY)
   - [M365 Copilot demos and examples](https://www.youtube.com/playlist?list=PLXPr7gfUMmKxDKxah3zpG4NhhDj-2lAvc)
   - [Understanding M365 Copilot for all business sizes](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/15/expanding-copilot-for-microsoft-365-to-businesses-of-all-sizes/)
@@ -30,4 +32,3 @@
   - [Tech for Social Impact Nonprofit Licensing and Pricing Updates](https://partner.microsoft.com/en-nz/asset/collection/tech-for-social-impact-nonprofit-licensing-and-pricing-updates#/)
 <br></br>
   - [Using AI for Good with Microsoft AI](https://www.microsoft.com/en-us/ai/ai-for-good)
-  - [Generative AI Skills Challenge grant - data.org](https://data.org/initiatives/ai-challenge/)
