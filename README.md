@@ -2,7 +2,7 @@
 ## Generative AI for not-for-profits 👉 [https://aka.ms/NFP-genAI](https://aka.ms/NFP-genAI) 👈
 
 ## 🖱️ Play
-  - [Copilot](https://copilot.microsoft.com) - note the "Protected" shield depending on if you're signed in with a personal or a work account
+  - [Copilot](https://copilot.microsoft.com) (in web, formerly known as Bing Chat) - note the "Protected" shield depending on if you're signed in with a personal or a work account
   - [ChatGPT](https://chat.openai.com/)
 <br></br>
 
