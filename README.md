@@ -2,14 +2,14 @@
 ## Generative AI for not-for-profits 👉 [https://aka.ms/NFP-genAI](https://aka.ms/NFP-genAI) 👈
 
 ## 🖱️ Play
-  - Copilot
+  - [Copilot](https://copilot.microsoft.com) - note the "Protected" shield depending on if you're signed in with a personal or a work account
   - [ChatGPT](https://chat.openai.com/)
 <br></br>
 
 ## 📺 Videos and explainers
-  - Copilot
-  - [M365 Copilot](https://www.youtube.com/playlist?list=PLXPr7gfUMmKxDKxah3zpG4NhhDj-2lAvc)
-  - [Understanding Copilot for M365 for all business sizes](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/15/expanding-copilot-for-microsoft-365-to-businesses-of-all-sizes/)
+  - [Microsoft Copilot personal and work experiences explained](https://www.youtube.com/watch?v=N6yiyXRNCJY)
+  - [M365 Copilot demos and examples](https://www.youtube.com/playlist?list=PLXPr7gfUMmKxDKxah3zpG4NhhDj-2lAvc)
+  - [Understanding M365 Copilot for all business sizes](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/15/expanding-copilot-for-microsoft-365-to-businesses-of-all-sizes/)
   - [Data, privacy, security](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 <br></br>
 
