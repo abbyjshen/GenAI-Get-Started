@@ -7,15 +7,18 @@
   - [ChatGPT](https://chat.openai.com/)
 <br></br>
 
-## 📺 Videos and explainers
+## 📺 Videos
   - [Meet Microsoft Copilot](https://www.microsoft.com/en-us/videoplayer/embed/RW1gt0F)
   - [Microsoft Copilot personal and work experiences explained](https://www.youtube.com/watch?v=N6yiyXRNCJY)
   - [M365 Copilot demos and examples](https://www.youtube.com/playlist?list=PLXPr7gfUMmKxDKxah3zpG4NhhDj-2lAvc)
+
+## 📖 Explainers
+  - [M365 Copilot homepage, pricingc how to buy](https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365)
   - [Understanding M365 Copilot for all business sizes](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/15/expanding-copilot-for-microsoft-365-to-businesses-of-all-sizes/)
   - [Data, privacy, security](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 <br></br>
 
-## 📖 Learn more
+## 📚 Learn more
   - News articles, videos, etc.
   - [AI for Individuals](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/AI-for-individuals.md)
   - [aka.ms/AIskills](https://aka.ms/AIskills)
