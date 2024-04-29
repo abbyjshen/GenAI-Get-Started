@@ -13,7 +13,7 @@
   - [M365 Copilot demos and examples](https://www.youtube.com/playlist?list=PLXPr7gfUMmKxDKxah3zpG4NhhDj-2lAvc)
 
 ## 📖 Explainers
-  - [M365 Copilot homepage, pricingc how to buy](https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365)
+  - [M365 Copilot homepage, pricing how to buy](https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365)
   - [Understanding M365 Copilot for all business sizes](https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/15/expanding-copilot-for-microsoft-365-to-businesses-of-all-sizes/)
   - [Data, privacy, security](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 <br></br>
