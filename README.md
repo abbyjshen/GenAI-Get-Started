@@ -1,5 +1,7 @@
 # GenAI-Get-Started [https://aka.ms/genAI-links](https://aka.ms/genAI-links)
 ## Generative AI for not-for-profits 👉 [https://aka.ms/NFP-genAI](https://aka.ms/NFP-genAI) 👈
+See May 2024 presentation slides at [https://aka.ms/NFP-genAI#presentation-slides](https://aka.ms/NFP-genAI#presentation-slides)
+<br></br>
 
 ## 🖱️ Play
   - [Get started here!](https://copilot.cloud.microsoft/) 🧪
@@ -38,3 +40,12 @@
   - [Tech for Social Impact Nonprofit Licensing and Pricing Updates](https://partner.microsoft.com/en-nz/asset/collection/tech-for-social-impact-nonprofit-licensing-and-pricing-updates#/)
 <br></br>
   - [Using AI for Good with Microsoft AI](https://www.microsoft.com/en-us/ai/ai-for-good)
+
+
+<br></br>
+<br></br>
+<br></br>
+
+## Presentation slides
+[Presentation slides from May 2024 webinar (coming!)](https://github.com/abbyjshen/GenAI-Get-Started/tree/main/files)
+
