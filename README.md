@@ -6,6 +6,8 @@ See May 2024 presentation slides at [https://aka.ms/NFP-genAI#presentation-slide
 ## 🖱️ Play
   - [Get started here!](https://copilot.cloud.microsoft/) 🧪
   - [Copilot](https://copilot.microsoft.com) (in web, formerly known as Bing Chat) - note the "Protected" shield depending on if you're signed in with a personal or a work account
+  - Keep an eye out for the Copilot logo on your [Edge browser](https://learn.microsoft.com/en-us/copilot/edge) or [Windows](https://learn.microsoft.com/en-us/copilot/windows) sidebar
+  - [Copilot mobile app](https://www.microsoft.com/en-us/copilot-app)
   - [ChatGPT](https://chat.openai.com/)
 <br></br>
 
