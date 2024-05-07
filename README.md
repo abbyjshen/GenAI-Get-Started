@@ -49,5 +49,5 @@ See May 2024 presentation slides at [https://aka.ms/NFP-genAI#presentation-slide
 <br></br>
 
 ## Presentation slides
-[Presentation slides from May 2024 webinar (coming!)](https://github.com/abbyjshen/GenAI-Get-Started/tree/main/files)
+[Presentation slides from 7th May 2024 webinar](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/files/Gen%20AI%20for%20NFP%20May2024%20-%20Infoxchange%20webinar.pdf)
 
