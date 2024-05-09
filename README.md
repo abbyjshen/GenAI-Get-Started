@@ -30,6 +30,8 @@ See May 2024 presentation slides at [https://aka.ms/NFP-genAI#presentation-slide
   - [AI for Individuals](https://github.com/abbyjshen/GenAI-Get-Started/blob/main/AI-for-individuals.md)
   - [aka.ms/AIskills](https://aka.ms/AIskills)
   - Certificate: [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) 🎓
+  - Work Trend Index 2024: [Global](https://blogs.microsoft.com/blog/2024/05/08/microsoft-and-linkedin-release-the-2024-work-trend-index-on-the-state-of-ai-at-work/), [NZ](https://news.microsoft.com/en-nz/2024/05/09/ai-at-work-is-here-now-comes-the-hard-part/)
+  - [AI Has Arrived at Work | LinkedIn](https://www.linkedin.com/pulse/ai-has-arrived-work-karin-kimbrough-v2luc/)
   - [Upskilling Your Nonprofit's Workforce with AI Skills for Today – and Tomorrow | LinkedIn](https://www.linkedin.com/pulse/upskilling-your-nonprofits-workforce-ai-skills-today/)
 <br></br>
 
