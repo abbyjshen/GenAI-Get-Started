@@ -18,6 +18,10 @@ _Disclaimer: This is not official wording. Some of the descriptions have been wr
 * [Windows](https://www.microsoft.com/en-us/edge/features/copilot?form=MA13FJ)
 * [Enter a URL, and chat with a custom Copilot over your website!](https://web.powerva.microsoft.com/tryit)
 
+### Why this matters
+* Work Trend Index 2024: [Global](https://blogs.microsoft.com/blog/2024/05/08/microsoft-and-linkedin-release-the-2024-work-trend-index-on-the-state-of-ai-at-work/), [NZ](https://news.microsoft.com/en-nz/2024/05/09/ai-at-work-is-here-now-comes-the-hard-part/)
+* [AI Has Arrived at Work | LinkedIn](https://www.linkedin.com/pulse/ai-has-arrived-work-karin-kimbrough-v2luc/)
+
 <br></br>
 ## Structured learning
 
