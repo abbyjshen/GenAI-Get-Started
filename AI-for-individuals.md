@@ -13,7 +13,7 @@ _Disclaimer: This is not official wording. Some of the descriptions have been wr
 * Do: [Get started with using and prompting!](https://copilot.cloud.microsoft/en-US/prompts)
 
 ### Do more
-* [Get started here!](https://copilot.cloud.microsoft/)
+* [Just A.S.K.!](https://news.microsoft.com/source/features/ai/how-to-use-ai-in-3-simple-steps-just-ask/)
 * [Edge](https://www.microsoft.com/en-us/edge/learning-center?form=MA13I2)
 * [Windows](https://www.microsoft.com/en-us/edge/features/copilot?form=MA13FJ)
 * [Enter a URL, and chat with a custom Copilot over your website!](https://web.powerva.microsoft.com/tryit)
