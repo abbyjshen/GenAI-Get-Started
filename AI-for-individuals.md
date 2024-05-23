@@ -25,7 +25,7 @@ _Disclaimer: This is not official wording. Some of the descriptions have been wr
 <br></br>
 ## Structured learning
 
-### Longer course
+### Longer structured courses
 * [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=3322)
 * [AI Learning Journey for Business Users](https://learn.microsoft.com/en-nz/collections/mjqf5pw7epqpq)
 
