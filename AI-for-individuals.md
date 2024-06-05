@@ -28,6 +28,7 @@ _Disclaimer: This is not official wording. Some of the descriptions have been wr
 ### Longer structured courses
 * [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=3322)
 * [AI Learning Journey for Business Users](https://learn.microsoft.com/en-nz/collections/mjqf5pw7epqpq)
+* [The AI Study Guide: Azure’s top free resources for learning generative AI in 2024](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-ai-study-guide-azure-s-top-free-resources-for-learning/ba-p/4036890)
 
 ### Short modules
 * [Explore generative AI with Copilot (fka Bing Chat)](https://learn.microsoft.com/en-us/training/modules/explore-generative-ai-copilot-bing/) (the easiest way to access and get started)
