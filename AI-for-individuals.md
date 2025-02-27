@@ -29,6 +29,8 @@ _Disclaimer: This is not official wording. Some of the descriptions have been wr
 * [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin?u=3322)
 * [Plans on Microsoft Learn](https://learn.microsoft.com/en-nz/ai/#learn-with-official-plans) are sets of curated content that can have documentation, code samples, modules, learning paths and more. Plans have built-in goals, sharing options, automated notifications and reports to help individuals and teams reach their learning objectives
 * [AI Learning Journey for Business Users](https://learn.microsoft.com/en-nz/collections/mjqf5pw7epqpq)
+* [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 * [The AI Study Guide: Azure’s top free resources for learning generative AI in 2024](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-ai-study-guide-azure-s-top-free-resources-for-learning/ba-p/4036890)
 
 ### Short modules
